@@ -1,0 +1,6 @@
+{
+  "appId": "com.ideasphere.app",
+  "appName": "IdeaSphere",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

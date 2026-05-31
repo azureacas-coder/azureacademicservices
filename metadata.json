@@ -1,0 +1,6 @@
+{
+  "name": "IdeaSphere",
+  "description": "An AI-powered research topic generator that suggests creative, trending, and highly specific ideas based on current world context.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
